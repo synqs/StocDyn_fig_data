@@ -20,7 +20,7 @@ The notebook generates the digitized sodium data from the raw data. One time tra
 - number of images in each reference wing: 100
 - filename: Sep24_Scan_0001_use_K=True
 ###### Additional data used for digitization:
-- dataset : September 24, 2020 with potassium
+- dataset : September 24, 2020 without potassium
 - exposure time: 75 ms
 - time between images : 12 ms
 - number of images in each reference wing: 100
@@ -58,7 +58,7 @@ The notebook plots the loading for sodium/potassium together with the average an
 
 
 ## Figure 6:  Accurate atom counting of sodium
-The notebook plots the histogram, which is used to extract calibration factor. Data is digitized and plotted together with the calibrated data.
+The notebook plots the histogram, which is used to extract the calibration factor. Data is digitized and plotted together with the calibrated data.
 
 #### Sodium
 - dataset : October 7th, 2020
