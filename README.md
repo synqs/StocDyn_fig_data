@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/synqs/StocDyn_fig_data/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/synqs/StocDyn_fig_data/HEAD
 # StocDyn_fig_data
 Here we provide the data and jupyter notebooks to generate the figures of the paper "Stochastic dynamics of a few sodium atoms in a cold potassium cloud". arXiv:2101.01135
 
