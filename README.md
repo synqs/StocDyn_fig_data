@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/synqs/StocDyn_fig_data/HEAD)
 
 # StocDyn_fig_data
-Here we provide the data and jupyter notebooks to generate the figures of the paper "Stochastic dynamics of a few sodium atoms in a cold potassium cloud". arXiv:2101.01135
+Here we provide the data and jupyter notebooks to generate the figures of the paper "Stochastic dynamics of a few sodium atoms in a cold potassium cloud". arXiv:2101.01135. This data is also available here : https://doi.org/10.11588/data/HRCX1P
 
 Each figure has its own Notebook. For some figures digitized data is needed. We, therefore, provide the raw data and the notebook containing the digitization routine to generate the digitized data.
 
