@@ -70,7 +70,7 @@ The notebook plots the histogram, which is used to extract the calibration facto
 - filename: Oct07_Scan_0000_Cam_EXPOT=0.2
 
 ## Figure 7: Counting  statistics  of  sodium  with  and  without potassium  atoms  present
-The notebook extracts the calbration factor needed for the digitization routine. Digitized data is loaded and number of single atom jumps up and down are extracted. Bootstrapping is used to calculate mean and std.
+The notebook extracts the calibration factor needed for the digitization routine. Digitized data is loaded and number of single atom jumps up and down are extracted. Bootstrapping is used to calculate mean and std.
 
 #### Sodium:
 - dataset : September 24, 2020 with and without potassium
@@ -78,3 +78,9 @@ The notebook extracts the calbration factor needed for the digitization routine.
 - time between images : 12 ms
 - number of images in each reference wing: 100
 - filename: Sep24_Scan_0001_use_K=True, Sep24_Scan_0001_use_K=False
+
+## Supplementary_Fig1A: Time trace simulation
+The notebook simulates the microscopic dynamics of the atom counts. True atom dynamics is compared to observed camera counts, which result from the sum of the atom dynamics during the imaging time.
+
+## Supplementary_Fig1B: Simulation of atom number fluctuations
+The notebook simulates the microscopic dynamics of the atom and camera counts. Mean and variance of camera counts are extracted from the time traces and plotted together with the shot noise.
